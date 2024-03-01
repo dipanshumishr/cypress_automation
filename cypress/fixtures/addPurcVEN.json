@@ -1,0 +1,15 @@
+{
+    "po_type1" : "Vendor Purchase",
+    "buyers1" : "Dipanshu",
+    "buyers2" : "Rajiv S",
+    "supplier" : "9999999991",
+    "micropocket" : "3-Oddi",
+    "purchasedate" : "30012024",
+    "incharge" : "Praneeth Kumar",
+    "model" : "Capitive",
+    "fruit1" : "Kinnow",
+    "sku1" : "36CT-A",
+    "desc1" : "TEST1",
+    "expected_weight1" : "100",
+    "agreed_value1" : "100"
+} 

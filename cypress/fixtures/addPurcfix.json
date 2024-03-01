@@ -1,0 +1,17 @@
+{
+    "po_type1" : "Farm Gate",
+    "buyers1" : "Dipanshu",
+    "buyers2" : "Rajiv S",
+    "supplier" : "9999999991",
+    "micropocket" : "3-Oddi",
+    "purchasedate" : "24012024",
+    "incharge" : "Dipanshu",
+    "model" : "Fixed",
+    "associate_supply" : "1-Hyderabad DC",
+    "fruit" : "Pomegranate",
+    "sku" : "UROYL-90C-100-120",
+    "desc" : "TEST1",
+    "expected_weight" : "100",
+    "agreed_value" : "100"
+} 
+

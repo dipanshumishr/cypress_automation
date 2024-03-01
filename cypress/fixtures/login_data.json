@@ -1,0 +1,10 @@
+{
+    "validUser": {
+      "username": "dipanshu.mishra@vegrow.in", 
+      "password": "vegrow123"
+    },
+    "invalidUser": {
+      "username": "fakeuser",
+      "password": "wrongpassword" 
+    } 
+}

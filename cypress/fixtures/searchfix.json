@@ -1,0 +1,15 @@
+{
+    "validDetails": {
+        "po_id": "47630",
+        "po_model1": "Fixed",
+        "po_model2": "Capitive",
+        "fruit1": "Pomegranate",
+        "fruit2": "Banana Export",
+        "Start_date" : "24/08/2023",
+        "end_date": "25/08/2023"
+
+      },
+      "invalidDetails": {
+        "po_id": "98706"
+      } 
+}
